@@ -53,7 +53,7 @@ def gen_username_value(username):
 def gen_serial_value(serial):
     static_add = 0xFFFFFFD0
     static_mul = 0xA
-    BITMASK = 0xFFFF
+    BITMASK = 0xFF
 
     serial_bytes = bytearray()
     serial_bytes.extend(map(ord, serial))
