@@ -16,7 +16,8 @@ This was a fun little Reverse Engineering / Key-gen Challenge I did a while ago.
 
 **Notes**
 
-1. I'm working on a writeup of the challenge, I'll update this page once it's done.
+1. ~~I'm working on a writeup of the challenge, I'll update this page once it's done.~~
+   You can find my writeup of this challenge [here](https://systemcra.sh/posts/dev0-crackme-writeup/)
 
 2. The solution is neither perfect nor fast but it will generate valid Username+Key pairs.
 
